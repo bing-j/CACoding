@@ -1,9 +1,5 @@
 package use_case.clear_users;
 
-import use_case.signup.SignupOutputData;
-
-import java.util.ArrayList;
-
 public class ClearInteractor implements ClearInputBoundary{
 
 

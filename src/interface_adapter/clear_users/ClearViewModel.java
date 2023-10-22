@@ -1,15 +1,11 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me
-
 import interface_adapter.ViewModel;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 
 public class ClearViewModel extends ViewModel {
-
-    public final String TITLE_LABEL = "Clear View";
 
     private ClearState state = new ClearState();
 
